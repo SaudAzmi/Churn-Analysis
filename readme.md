@@ -53,7 +53,7 @@ The Power BI dashboard includes the following features:
 
 ## Contributors
 
-- [Your Name](https://github.com/SaudAzmi)
+- [Saud Azmi](https://github.com/SaudAzmi)
 
 ## License
 
