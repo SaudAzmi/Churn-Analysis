@@ -57,7 +57,7 @@ The Power BI dashboard includes the following features:
 
 # Bank Customer Churn Prediction Power BI Dashboard
 
-![Dashboard Screenshot](Screenshot 2024-05-13 214015.png)
+![Dashboard Screenshot](./Screenshot 2024-05-13 214015.png)
 
 This repository contains a Power BI dashboard solution for predicting customer churn in the banking industry using a fictional dataset. The dashboard provides insights into customer characteristics, churn rate, customer value, and potential market targeting strategies.
 
